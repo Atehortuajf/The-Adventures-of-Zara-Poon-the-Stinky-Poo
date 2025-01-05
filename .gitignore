@@ -1,0 +1,23 @@
+# Node modules folder
+node_modules/
+
+# Build output (if you have a custom build process)
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Environment files (if any)
+.env
+.env.* 
